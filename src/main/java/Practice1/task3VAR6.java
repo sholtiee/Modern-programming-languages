@@ -8,7 +8,7 @@ public class task3VAR6 {
             b = a;
         } else {
             a = 0;
-            b = 0;
+            b = a;
         }
         return new int[] { a, b };
     }
